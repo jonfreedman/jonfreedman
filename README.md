@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi 👋, I'm Jon Freedman
 
-<!--
-**jonfreedman/jonfreedman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![jonfreedman GitHub Profile Views](https://komarev.com/ghpvc/?username=jonfreedman&label=Profile%20views&color=0e75b6&style=flat)
+[![JonFreedmanUK Twitter](https://img.shields.io/twitter/follow/jonfreedmanuk?logo=twitter)](https://twitter.com/jonfreedmanuk)
 
-Here are some ideas to get you started:
+[![jonfreedman GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jonfreedman)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/twitter.svg" alt="Twitter" height="30" width="40" />](https://twitter.com/jonfreedmanuk)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />](https://linkedin.com/in/jonfreedman)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/stackoverflow.svg" alt="StackOverflow" height="30" width="40" />](https://stackoverflow.com/users/jon-freedman)
+
+![jonfreedman GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jonfreedman&show_icons=true&locale=en&layout=compact)
+
+![jonfreedman GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonfreedman&show_icons=true&locale=en)
